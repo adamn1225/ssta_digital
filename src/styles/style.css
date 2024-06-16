@@ -1,0 +1,16 @@
+
+.home-hero {
+    background: rgb(211, 236, 246);
+    height: 45vh;
+    width: 100%;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 0em 1em;
+    height: 100%;
+    width: 45vw;
+}
